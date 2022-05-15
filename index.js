@@ -79,7 +79,8 @@ const questions = [
   {
     type: 'input',
     name: 'test',
-    message: 'Provide testing instructions if applicable'
+    message: 'Provide testing instructions if applicable',
+    default: 'No testing was done'
   },
   // License
   {
@@ -117,8 +118,8 @@ const questions = [
   {
     type: 'input',
     name: 'email',
-    message: 'Would you like to include your email?',
-  }
+    message: 'Would you like to include your email?'
+  }    
 ];
 
 // TODO: Create a function to write README file
