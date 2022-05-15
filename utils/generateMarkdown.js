@@ -98,7 +98,7 @@ function generateMarkdown(data) {
 
   ## Questions
 
-  Github: [${data.github}](https://github.com/${data.github})
+  Github: [${data.github}](https://github.com/${data.github})<br>
   For any questions, contact me at ${data.email}
 
 `;
