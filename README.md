@@ -1,37 +1,29 @@
-# professional-README-generator
+# Professional README Generator
 
 ## Description
 
-dwa
+Generates a README file using the command-line application. Through the command-line application, users are given prompts about the project they are working on and the user input is used to make the README file.
 
-## Table of Contents
+The prompts asks for information about project title and information concerning description, installation instructions, usage, contribution guidelines, and test instruction. Additionally, the prompt include picking licenses from a list of options and asking for GitHub username and email.
 
+Using the information from the prompts, the generator makes a markdown and puts the information into their corresponding sections (Project title, description, installation, usage, contribution, licenses, test, and questions). The generator makes table of content section and display license badges under the project title.
+
+## Table of Content
+
+- [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
-- [Contribution](#contribution)
-- [Tests](#test)
-- [Questions](#questions)
+- [Demo](#demo)
 
 ## Installation
 
-wad
+- Download the zip files or clone/fork from https://github.com/ptran77/professional-README-generator
+- from the command line, run 'npm i' to install the necessary packages
 
 ## Usage
 
-wda
+- type and enter 'node index' to run the program
+- answer the prompt and a README will be generated
+- the generated README will be in the dist folder
 
-## License
-
-[Apache License 2.0](https://opensource.org/licenses/Apache-2.0)<br>[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0)<br>[MIT License](https://opensource.org/licenses/MIT)<br>[BSD 2-Clause "Simplified" License](https://opensource.org/licenses/BSD-2-Clause)<br>[BSD 3-Clause "New" or "Revised" License](https://opensource.org/licenses/BSD-3-Clause)<br>[Boost Software License 1.0](https://www.boost.org/LICENSE_1_0.txt)<br>[Creative Commons Zero v1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/)<br>[Eclipse Public License 2.0](https://opensource.org/licenses/EPL-1.0)<br>[GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0)<br>[GNU General Public License v2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)<br>[GNU Lesser General Public License v2.1](https://www.gnu.org/licenses/lgpl-3.0)<br>[Mozilla Public License 2.0](https://opensource.org/licenses/MPL-2.0)<br>[The Unilicense](http://unlicense.org/)<br>
-
-## Contribution
-
-aw
-
-## Test
-
-No testing was done
-
-Github: [dw](https://github.com/dw)<br>
-For any questions, contact me at dwa
+## Demo
