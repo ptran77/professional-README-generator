@@ -27,3 +27,5 @@ Using the information from the prompts, the generator makes a markdown and puts 
 - the generated README will be in the dist folder
 
 ## Demo
+
+![]("./assets/images/professional-readme-generator-demo.gif" | width=100)
