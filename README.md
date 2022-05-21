@@ -14,6 +14,7 @@ Using the information from the prompts, the generator makes a markdown and puts 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Demo](#demo)
+- [Questions](#questions)
 
 ## Installation
 
@@ -28,4 +29,12 @@ Using the information from the prompts, the generator makes a markdown and puts 
 
 ## Demo
 
-![]("./assets/images/professional-readme-generator-demo.gif" | width=100)
+<img src='./assets/images/professional-readme-generator-demo.gif' width=500 />
+
+[Demo Link](https://drive.google.com/file/d/15BUdqW3iV0dbZEAAKbWEMGmFHfo0_KeH/view?usp=sharing)
+
+## Questions
+
+Github: [ptran77](https://github.com/ptran77)
+
+For any questions, contact me at pettran866@gmail.com
