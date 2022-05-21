@@ -23,7 +23,7 @@ Using the information from the prompts, the generator makes a markdown and puts 
 ## Usage
 
 - type and enter 'node index' to run the program
-- answer the prompt and a README will be generated
+- answer the prompts and a README will be generated
 - the generated README will be in the dist folder
 
 ## Demo

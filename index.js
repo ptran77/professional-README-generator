@@ -80,7 +80,6 @@ const questions = [
     type: 'input',
     name: 'test',
     message: 'Provide testing instructions if applicable',
-    default: 'No testing was done'
   },
   // License
   {
